@@ -1,2 +1,4 @@
 # cp-solutions
-you can contribute by adding solutions along with problem number. (for instance #213C_codeforces then solution at the bottom ). owner- Niful Islam
+you can contribute by adding solutions along with problem number. (for instance type  #213C_codeforces at the top and then solution  ).
+ or you can name the file similar to the problem number (such as 321B.cpp or String_LCM.cpp)
+ owner- Niful Islam
